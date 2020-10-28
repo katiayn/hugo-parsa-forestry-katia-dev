@@ -5,7 +5,7 @@ description = "pasta"
 draft = true
 image = "/images/masonary-post/post-4.jpg"
 tags = ["pasta", "food"]
-title = "Title test"
+title = "Test"
 type = "post"
 
 +++
